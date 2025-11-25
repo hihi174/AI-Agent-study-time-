@@ -152,4 +152,4 @@ Open PRs for:
 * New study modes (flashcards, quiz builder, summarizer, etc.)
 
 
-Just say the word.
+Just say t
