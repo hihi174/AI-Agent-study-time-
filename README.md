@@ -149,7 +149,4 @@ Open PRs for:
 
 * Better task modules
 * Cleaner formatting
-* New study modes (flashcards, quiz builder, summarizer, etc.)
-
-
-Just say t
+* New study modes (flashcards, quiz builder, summarizer
